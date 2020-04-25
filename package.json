@@ -1,6 +1,6 @@
 {
   "name": "@amdglobal/koa-bearer-token",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bearer token parser middleware for koa",
   "license": "MIT",
   "repository": "chentsulin/koa-bearer-token",
