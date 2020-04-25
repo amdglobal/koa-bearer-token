@@ -4,7 +4,6 @@
   "description": "Bearer token parser middleware for koa",
   "license": "MIT",
   "repository": "chentsulin/koa-bearer-token",
-  "type": "module",
   "author": {
     "name": "C. T. Lin",
     "email": "chentsulin@gmail.com",
