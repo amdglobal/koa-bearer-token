@@ -6,6 +6,5 @@ import * as Koa from 'koa';
     headerKey?: string;
     reqKey?: string;
   };
-  function bearerToken(opts?: Options): Koa.Middleware;
-  export = bearerToken;
+  export default function bearerToken(opts?: Options): Koa.Middleware;
 }
