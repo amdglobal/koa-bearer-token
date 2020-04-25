@@ -1,6 +1,6 @@
 {
-  "name": "koa-bearer-token",
-  "version": "1.0.0",
+  "name": "@amdglobal/koa-bearer-token",
+  "version": "1.0.1",
   "description": "Bearer token parser middleware for koa",
   "license": "MIT",
   "repository": "chentsulin/koa-bearer-token",
@@ -32,6 +32,7 @@
     "oauth"
   ],
   "devDependencies": {
+    "@typescript-eslint/parser": "^2.29.0",
     "istanbul-harmony": "^0.3.12",
     "koa": "^2.4.1",
     "koa-bodyparser": "^4.2.0",
