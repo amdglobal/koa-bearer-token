@@ -1,5 +1,5 @@
 
-module.exports = function(opts = {}) {
+export default function(opts = {}) {
   const queryKey = opts.queryKey || 'access_token'
   const bodyKey = opts.bodyKey || 'access_token'
   const headerKey = opts.headerKey || 'Bearer'
